@@ -4,9 +4,9 @@ my realisation funtcion cp for unix systems
 ## Build
 
 ```
-git clone https://github.com/DmSM-1/cache.git
+git clone https://github.com/DmSM-1/my_cp.git
 
-cd cache
+cd my_cp
 
 mkdir build
 
